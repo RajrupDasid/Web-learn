@@ -1,5 +1,5 @@
 <!--registration form section-->
-<form>
+<form id="stuRegForm">
     <div class="form-group">
         <i class="fas fa-user"></i><label for="name" class="pl-2" font-weight-bold">Name</label><small id="statusMsg1"></small><input type="text" class="form-control" placeholder="Name" name="name" id="name">
     </div>
