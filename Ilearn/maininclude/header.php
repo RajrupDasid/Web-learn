@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/owlcaeousel.min.css">
+    <link rel="stylesheet" href="css/owlcarousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <title>WebLearn</title>
 </head>
